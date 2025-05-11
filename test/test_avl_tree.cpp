@@ -1,5 +1,6 @@
 #include "gtest.h"
 #include "avl_tree.h"
+#include <climits>
 
 TEST(AVLTreeTest, InsertAndFind)
 {
